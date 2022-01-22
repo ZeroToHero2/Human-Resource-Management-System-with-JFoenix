@@ -12,7 +12,7 @@ Human Resource Management Application on JavaFX using MVC Design Pattern
 - Umay Şamlı [Profile]() 👍
 
 # Some Snippets About Program                  ![image](https://user-images.githubusercontent.com/92628464/150645690-b6e3b9a2-fb9c-484a-b118-c4ee7160bcba.png)
-JFoenix is an open source Java library, that implements Google Material Design using Java components
+
 ## Login
 - ![Login](https://user-images.githubusercontent.com/92628464/150646272-c6e7af23-fea1-4e0c-9429-56e080476237.PNG) 
  
