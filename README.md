@@ -5,7 +5,7 @@ Human Resource Management Application on JavaFX using MVC Design Pattern
 - Java
 - JavaFX - FXML
 - CSS
-- 
+
 # Authors
 - Bahadır Ünal [Profile](https://github.com/ZeroToHero2) 👍
 - Umay Şamlı [Profile]() 👍
