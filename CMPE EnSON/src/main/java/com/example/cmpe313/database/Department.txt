@@ -1,5 +1,0 @@
-AccountingDepartment 50000TL 20
-ManagementDepartment 30000TL 5
-PurchasingDepartment 10000TL 30
-SoftwareDepartment 60000TL 7
-System&NetworkDepartment 30000TL 12
