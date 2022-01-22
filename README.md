@@ -14,7 +14,7 @@ Human Resource Management Application on JavaFX using MVC Design Pattern
 # Some Snippets About Program
 - ![image](https://user-images.githubusercontent.com/92628464/150645690-b6e3b9a2-fb9c-484a-b118-c4ee7160bcba.png)
                               
--                              ![profile](https://user-images.githubusercontent.com/92628464/150645723-62edac5a-7e0a-407e-97e2-c99176415949.PNG
+- ![profile](https://user-images.githubusercontent.com/92628464/150645723-62edac5a-7e0a-407e-97e2-c99176415949.PNG)
                               
 -                              ![measuring and evaluation](ht![profile](https://user-images.githubusercontent.com/92628464/150645718-4acbf77e-8620-494d-9b4e-d66bec1bb889.PNG)
                               
