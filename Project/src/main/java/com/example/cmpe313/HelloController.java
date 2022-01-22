@@ -653,7 +653,6 @@ public class HelloController implements Initializable {
 
         } else if (control) {
             try {
-                //Deneme kısmı olmazsa catchlicek.
                 int m = Integer.parseInt(theNewBudget);
 
                 int employee = departmantList1.getSelectionModel().getFocusedIndex();
