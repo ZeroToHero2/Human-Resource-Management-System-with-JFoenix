@@ -11,9 +11,13 @@ Human Resource Management Application on JavaFX using MVC Design Pattern
 - Bahadır Ünal [Profile](https://github.com/ZeroToHero2) 👍
 - Umay Şamlı [Profile]() 👍
 
-# Some Snippets About Program
-- ![image](https://user-images.githubusercontent.com/92628464/150645690-b6e3b9a2-fb9c-484a-b118-c4ee7160bcba.png)
-                              
+# Some Snippets About Program ![image](https://user-images.githubusercontent.com/92628464/150645690-b6e3b9a2-fb9c-484a-b118-c4ee7160bcba.png)
+
+## Login
+- ![Login](https://user-images.githubusercontent.com/92628464/150646272-c6e7af23-fea1-4e0c-9429-56e080476237.PNG) 
+ 
+## Other UI's
+
 - ![profile](https://user-images.githubusercontent.com/92628464/150645723-62edac5a-7e0a-407e-97e2-c99176415949.PNG)
                               
 -  ![measuring and evaluation](https://user-images.githubusercontent.com/92628464/150645943-b57dfb21-b8ae-4981-8f65-3274a068aead.PNG)
