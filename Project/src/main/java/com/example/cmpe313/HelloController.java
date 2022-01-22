@@ -31,6 +31,8 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 
 public class HelloController implements Initializable {
+    
+    //change the resources acording to where you downloaded the files. 
     public static final String INVENTORYURL = "C:\\Users\\BAHADIR\\Desktop\\CMPE 313\\Term project\\CMPE EnSON\\src\\main\\java\\com\\example\\cmpe313\\database\\Inventory.txt";
     public static final String DEPARTMENTURL = "C:\\Users\\BAHADIR\\Desktop\\CMPE 313\\Term project\\CMPE EnSON\\src\\main\\java\\com\\example\\cmpe313\\database\\Department.txt";
     public static final String EDUCATIONURL = "C:\\Users\\BAHADIR\\Desktop\\CMPE 313\\Term project\\CMPE EnSON\\src\\main\\java\\com\\example\\cmpe313\\database\\Education.txt";
