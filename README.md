@@ -12,7 +12,7 @@ Human Resource Management Application on JavaFX using MVC Design Pattern
 - Umay Şamlı [Profile]() 👍
 
 # Some Snippets About Program
-                              ![image](https://user-images.githubusercontent.com/92628464/150645690-b6e3b9a2-fb9c-484a-b118-c4ee7160bcba.png)
+- ![image](https://user-images.githubusercontent.com/92628464/150645690-b6e3b9a2-fb9c-484a-b118-c4ee7160bcba.png)
                               
                               ![profile](https://user-images.githubusercontent.com/92628464/150645723-62edac5a-7e0a-407e-97e2-c99176415949.PNG
                               
