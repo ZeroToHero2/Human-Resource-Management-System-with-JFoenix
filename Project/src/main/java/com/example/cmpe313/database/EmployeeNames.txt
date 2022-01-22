@@ -1,0 +1,8 @@
+Ahmet Veli 4500TL 050718329212 ahmetveli@companyname.tr
+Mahmut Kayis 6500TL 050718329212 mahmutkayıs@companyname.tr
+Sakir Duru 4250TL 050718329212 sakirduru@companyname.tr
+Bahadir Unal 10000TL 050718329212 bahadirunal@companyname.tr
+Abdüsselam Koç 12000TL 050718329212 abdüsslemakoc@companyname.tr
+Umay Samlı 7400TL 050718329212 umaysamlı@companyname.tr
+Barış Sinaplı 3800TL 050718329212 barissinapli@companyname.tr
+Emin Kuğu 9500TL 050718329212 eminkugu@companyname.tr

@@ -1,0 +1,5 @@
+Web-Development-Exam -1 40
+ASP.NET-Exam -1 50
+Software-Management-Exam -1 50
+DBMS-Exam -1 90
+Docker-Exam 21 30
