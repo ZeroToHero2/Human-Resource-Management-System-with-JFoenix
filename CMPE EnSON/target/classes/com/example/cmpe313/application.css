@@ -1,0 +1,170 @@
+/*Color gradient*/
+
+.colorBackground {
+    /*-fx-background-color: linear-gradient( to right top, rgba(104, 250, 194, 0.84), #00ffe8);*/
+    /*-fx-background-image: url("https://swall.teahub.io/photos/small/21-216495_wallpaper-gradient-purple-blue-linear-dark-violet-dark.jpg");*/
+    -fx-background-size: cover;
+    -fx-background-color: linear-gradient(to right top, #facd68, #fc76b3);
+}
+
+/*https://swall.teahub.io/photos/small/21-216495_wallpaper-gradient-purple-blue-linear-dark-violet-dark.jpg
+https://www.wallpapertip.com/wmimgs/29-292972_wallpaper-linear-gradient-pink-orange-medium-violet-pink.jpg
+ */
+/*#root {
+    -fx-background-image: url("29-292972_wallpaper-linear-gradient-pink-orange-medium-violet-pink.jpg");
+
+    -fx-background-size: cover;
+}*/
+.TextField {
+    -fx-background-radius: 20;
+}
+
+.loginBtn {
+    -fx-background-color: white;
+}
+
+.mainBackGround {
+    -fx-background-image: url("https://swall.teahub.io/photos/small/21-216495_wallpaper-gradient-purple-blue-linear-dark-violet-dark.jpg");
+}
+
+.copyRight {
+
+}
+
+.loginHeader {
+    -fx-font-weight: bold;
+}
+
+/*.login .form .password::placeholder {
+    color: #D3D3D3;
+}*/
+.cancelbtn {
+    /*  -fx-highlight-text-fill: ;*/
+    -fx-focus-color: #0093ff;
+    -fx-width: auto;
+    -fx-padding: 10px 18px;
+    -fx-background-color: none;
+}
+
+/*.cancelbtn:visited {
+    -fx-color: hotpink;
+    -fxbackground-color:hotpink ;
+}*/
+/*.loginInputBtn {
+    -fx-border-style: 2px solid red;
+    -fx-border-radius: 5px;
+}*/
+.tabProfile {
+    /* -fx-background-color: linear-gradient(to right top, #68fab8, #00beff);*/
+    /* -fx-background-color: #7F848F;*/
+    -fx-background-color: linear-gradient(to right top, #fad364, #fffe5c);
+    /*   -fx-background-color: linear-gradient(to right top, #fad364, #b7b304);*/
+    /* -fx-background-color: #fad364;*/
+    -fx-text-fill: white;
+}
+
+.backgroundProfile {
+    /* -fx-background-color: white;*/
+    /*-fx-background-image: url("https://swall.teahub.io/photos/small/21-216495_wallpaper-gradient-purple-blue-linear-dark-violet-dark.jpg");*/
+    -fx-background-color: #1D1D2D;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    /* -fx-background-color: MediumSeaGreen;*/
+}
+
+
+.profileBackground {
+    /* -fx-background-image: url("https://peoplemanagingpeople.com/wp-content/uploads/2019/09/PMP_-_MVP_-_HRMS.png");*/
+    /*-fx-background-image: url("https://swall.teahub.io/photos/small/21-216495_wallpaper-gradient-purple-blue-linear-dark-violet-dark.jpg");*/
+    -fx-background-color: #1D1D2D;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+
+}
+
+.TextArea {
+    -fx-background-radius: 20;
+
+}
+
+.tabPane {
+    /*-fx-background-position: fixed;*/
+    -fx-background-color: tomato;
+}
+
+.Button {
+    -fx-background-radius: 20;
+    -fx-background-color: #EE709D;
+}
+
+.confirmButton {
+    -fx-background-radius: 20;
+    -fx-background-color: #46f172;
+    /*#2C9C91*/
+}
+
+.entrustButton {
+    -fx-background-radius: 20;
+    -fx-background-color: #46f172;
+    /*#2C9C91*/
+}
+
+.RemoveButton {
+    -fx-background-radius: 20;
+    -fx-background-color: #E75750;
+}
+
+.resignExam {
+    -fx-background-radius: 20;
+    -fx-background-color: #00b8d3;
+}
+
+.editButton {
+    -fx-background-radius: 20;
+    -fx-background-color: #FAD364
+}
+
+.label {
+    /* -fx-border-style: solid;*/
+
+    /* -fx-border-color: solid red;
+     -fx-border-radius: 5px;
+     /*-fx-background-color: green;*/
+}
+
+.reclaim {
+    -fx-font-weight: bold;
+    /*-fx-text-fill: white;*/
+}
+
+.text-input {
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-highlight-fill: derive(-fx-control-inner-background, -20%);
+    -fx-highlight-text-fill: -fx-text-inner-color;
+    -fx-prompt-text-fill: derive(-fx-control-inner-background, -30%);
+    /*  -fx-background-color: linear-gradient(to bottom, derive(-fx-text-box-border, -10%), -fx-text-box-border);*/
+    /* linear-gradient(from 0px 0px to 0px 5px, derive(-fx-control-inner-background, -9%), -fx-control-inner-background);*/
+    /*-fx-background-insets: 0, 1;
+    -fx-background-radius: 3, 2;
+    -fx-cursor: text;
+    -fx-padding: 0.333333em 0.583em 0.333333em 0.583em; /* 4 7 4 7 */
+}
+
+/*.text-input:focused {
+    -fx-highlight-fill: -fx-accent;
+    -fx-highlight-text-fill: white;
+    -fx-background-color:
+            -fx-focus-color,
+            -fx-control-inner-background,
+            -fx-faint-focus-color;
+           /* linear-gradient(from 0px 0px to 0px 5px, derive(-fx-control-inner-background, -9%), -fx-control-inner-background);*/
+/* -fx-background-insets: -0.2, 1, -1.4, 3;
+ -fx-background-radius: 3, 2, 4, 0;
+ -fx-prompt-text-fill: transparent;
+}*/
+.dateButton {
+    -fx-text-fill: -fx-text-inner-color;
+    -fx-highlight-fill: derive(-fx-control-inner-background, -20%);
+    -fx-highlight-text-fill: -fx-text-inner-color;
+    -fx-prompt-text-fill: derive(-fx-control-inner-background, -30%);
+}
